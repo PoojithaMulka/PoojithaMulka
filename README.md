@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PoojithaMulka
-- 👀 I’m interested in webpages
+- 👀 I’m interested in creating webpages
 - 🌱 I’m currently learning full stack java
 - 📫 Reach me on poojithamulka206@gmail.com
 
